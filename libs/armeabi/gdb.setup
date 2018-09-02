@@ -1,0 +1,3 @@
+set solib-search-path ./obj/local/armeabi
+source D:/android_env/ndk_r10e/prebuilt/common/gdb/common.setup
+directory D:/android_env/ndk_r10e/platforms/android-3/arch-arm/usr/include jni/src jni/src/RtpTrans jni/src/RtpTrans/rtplib/jrtplib jni/src/Common jni/src/include external/stlport/stlport bionic D:/android_env/ndk_r10e/sources/cxx-stl/gnu-libstdc++/4.8/include D:/android_env/ndk_r10e/sources/cxx-stl/gnu-libstdc++/4.8/libs/armeabi/include D:/android_env/ndk_r10e/sources/cxx-stl/gnu-libstdc++/4.8/include/backward
